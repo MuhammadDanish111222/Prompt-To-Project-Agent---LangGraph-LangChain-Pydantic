@@ -1,0 +1,9 @@
+[project]
+name = "code-creater-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain-openai>=1.2.2",
+]
