@@ -1,6 +1,6 @@
-# Code Creator Agent
+# Prompt To Project Agent
 
-Code Creator Agent is a Python based AI software generation system that converts a simple project idea into a structured plan, breaks it into implementation tasks, and generates project files automatically.
+Prompt To Project Agent is a Python based AI software generation system that converts a simple project idea into a structured plan, breaks it into implementation tasks, and generates project files automatically.
 
 The project uses LangGraph, LangChain, DeepSeek, and Pydantic to build a multi stage agent workflow.
 
